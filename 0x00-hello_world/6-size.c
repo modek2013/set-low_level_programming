@@ -3,6 +3,10 @@
 /**
  * main - Entry point
  *
+<<<<<<< HEAD
+=======
+ * Description: Prints the size of various data types
+>>>>>>> cc863dc9ae7282a12b30c0921921ce65c8c3035e
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -12,5 +16,9 @@ int main(void)
 	printf("Size of a long int: %lu byte(s)\n", sizeof(long int));
 	printf("Size of a long long int: %lu byte(s)\n", sizeof(long long int));
 	printf("Size of a float: %lu byte(s)\n", sizeof(float));
+<<<<<<< HEAD
+=======
+
+>>>>>>> cc863dc9ae7282a12b30c0921921ce65c8c3035e
 	return (0);
 }
